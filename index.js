@@ -1,0 +1,1 @@
+window.alert("本網站是設計給橫屏的電腦用戶使用,如果是手機或者平板用戶,為最優化您的瀏覽體驗,請自行把瀏覽器設置成桌面版網站  |  this website design for landscape user,so if you are phone or tablet user please turn your browser to desktop site,for your best browsing experience")
